@@ -240,9 +240,4 @@ MIT License - Siéntete libre de usar, modificar y distribuir.
 **[⬆ volver arriba](#-generador-poético-)**
 
 </div>
-EOF
 
-# Agrega el README al repo
-git add README.md
-git commit -m "Add: README épico con estética hacker"
-git push origin main
